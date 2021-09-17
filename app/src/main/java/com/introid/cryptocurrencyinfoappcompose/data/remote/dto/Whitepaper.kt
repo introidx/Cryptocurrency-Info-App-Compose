@@ -1,6 +1,6 @@
 package com.introid.cryptocurrencyinfoappcompose.data.remote.dto
 
-data class WhitePaper(
+data class Whitepaper(
     val link: String,
     val thumbnail: String
 )

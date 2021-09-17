@@ -52,6 +52,4 @@ fun CoinListScreen(
             CircularProgressIndicator(modifier = Modifier.align(Alignment.Center))
         }
     }
-
-
 }

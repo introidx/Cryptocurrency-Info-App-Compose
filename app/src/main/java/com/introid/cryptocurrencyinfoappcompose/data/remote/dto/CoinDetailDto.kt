@@ -25,7 +25,7 @@ data class CoinDetailDto(
     val tags: List<Tag>,
     val team: List<TeamMember>,
     val type: String,
-    val whitePaper: WhitePaper
+    val whitepaper: Whitepaper
 )
 
 fun CoinDetailDto.toCoinDetail(): CoinDetail {
