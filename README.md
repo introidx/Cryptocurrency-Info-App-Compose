@@ -1,6 +1,6 @@
 ## Cryptocurrency-Info-App-Compose
 
-Display Cryptocurrencies and basic information about them using Data from [Coinpaprika]("https://api.coinpaprika.com/") 
+Display Cryptocurrencies and basic information about them using Data from ("https://api.coinpaprika.com/")
 Using Jetpack Compose, Retrofit and following Clean Architecture.
 
 ## 📸 Screenshots
