@@ -23,8 +23,7 @@ Using Jetpack Compose, Retrofit and following Clean Architecture.
 
 ## Architecture
 This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-
-![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
+-
 
 ## Contact
 If you need any help, you can connect with me.
